@@ -1,6 +1,6 @@
-#include <stdio.h>
-1. /*c program to calculate nth term*/
 
+1. /*c program to calculate nth term*/
+#include <stdio.h>
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
